@@ -1,0 +1,6 @@
+serviceAccountKey.json
+EncodeFile.p
+.venv/
+__pycache__/
+Images/*
+!Images/.gitkeep

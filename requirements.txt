@@ -1,0 +1,7 @@
+# Install dlib FIRST (see README), then: pip install -r requirements.txt
+setuptools<81
+numpy
+opencv-python
+cvzone
+face_recognition
+firebase-admin
